@@ -1,6 +1,7 @@
 # Preston (Canyang) Zhao
 
 **Master's student @ UW–Madison** · B.S. May 2026, M.S. expected Dec 2027
+
 Seeking Summer 2027 internships in software, data, or AI/ML.
 
 **Projects**
