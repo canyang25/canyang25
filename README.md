@@ -4,8 +4,6 @@ Portfolio: [canyang25.github.io](https://prestonzhao.me/) · [Resume](https://ca
 
 **Data science master's student @ UW–Madison** · B.S. May 2026, M.S. expected Dec 2027 · Software engineering candidate · Open to relocate
 
-I build software, data, and AI/ML systems: production web platforms and job queues, data pipelines and ranking models, and tool-calling LLM agents.
-
 Seeking Summer 2027 internships in software, data, or AI/ML.
 
 **Projects**
@@ -29,20 +27,11 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
   <img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
 </picture>
 
-**About Me**  
-Data science master's student at UW–Madison, building software, data, and AI/ML systems. Software engineering candidate, open to relocate.  
-Bio-Techne — software development intern. Azure TypeScript app and Python API for 50+ scientists, a Celery + PostgreSQL + Docker job service, and an XGBoost ranker trained in Databricks and served on Azure.  
-AI Rudder — LLM engineer intern. Llama 3.1 8B LoRA fine-tune for tool calling, 150K+ validated conversations, and an LLM judge checked against human review.  
-Turning Green — data analyst intern. Airbyte-to-Snowflake ELT, location reconciliation, and an XGBoost model ranking farm-to-school hubs.  
-Looking for: Summer 2027 internships in software, data, or AI/ML.  
-Contact: [canyang.zhao2@gmail.com](mailto:canyang.zhao2@gmail.com)
-
 **Stack**  
 [![Languages](https://img.shields.io/badge/Languages-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Python · TypeScript · JavaScript · SQL  
 [![Backend](https://img.shields.io/badge/Backend-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) FastAPI · Express · PostgreSQL · Celery  
-[![Frontend](https://img.shields.io/badge/Frontend-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) React · TypeScript · Tailwind · Vite  
-[![Infra](https://img.shields.io/badge/Infra-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Docker · Azure · Databricks · Snowflake  
-[![AI/ML](https://img.shields.io/badge/AI%2FML-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) LangGraph · LangChain · XGBoost · scikit-learn
+[![Infra](https://img.shields.io/badge/Infra-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Docker · Azure · Databricks · K8s  
+[![AI/ML](https://img.shields.io/badge/AI%2FML-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) LangGraph · PyTorch · XGBoost · scikit-learn
 
 <br clear="left"/>
 
