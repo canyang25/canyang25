@@ -18,17 +18,12 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
 </p>
 
 <img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="168 contributions in the last year" />
+<img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
-  <img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
-</picture>
-
-**Stack**  
-[![Languages](https://img.shields.io/badge/Languages-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Python · TypeScript · Java · SQL · C++ 
-[![Backend](https://img.shields.io/badge/Backend-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) FastAPI · Express · PostgreSQL · Celery  
-[![Infra](https://img.shields.io/badge/Infra-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Docker · Azure · Databricks · K8s  
+**Stack**<br>
+[![Languages](https://img.shields.io/badge/Languages-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Python · TypeScript · Java · SQL · C++<br>
+[![Backend](https://img.shields.io/badge/Backend-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) FastAPI · Express · PostgreSQL · Celery<br>
+[![Infra](https://img.shields.io/badge/Infra-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Docker · Azure · Databricks · K8s<br>
 [![AI/ML](https://img.shields.io/badge/AI%2FML-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) LangGraph · PyTorch · XGBoost · scikit-learn
 
 <br clear="left"/>
