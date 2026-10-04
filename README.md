@@ -2,11 +2,17 @@
 
 Portfolio: [canyang25.github.io](https://canyang25.github.io/) · [Resume](https://canyang25.github.io/resume.pdf)
 
-**Data science master's student at UW–Madison** · B.S. in Data Science (Computational), May 2026 · M.S. expected Dec 2027 · Open to relocate
+**Data science master's student @ UW–Madison** · B.S. May 2026, M.S. expected Dec 2027 · Software engineering candidate · Open to relocate
 
 I build software, data, and AI/ML systems: production web platforms and job queues, data pipelines and ranking models, and tool-calling LLM agents.
 
 Seeking Summer 2027 internships in software, data, or AI/ML.
+
+**Projects**
+- [Mini-MapReduce](https://github.com/canyang25/mapreduce-project) — Python MapReduce runtime with gRPC, Docker, and HDFS
+- [BadgerForge](https://github.com/canyang25/BadgerForge) — LangGraph coding agent for open-weight models
+- [NASA APOD Service](https://github.com/canyang25/NASA-apod-service) — Express service for NASA's Astronomy Picture of the Day
+- [AutoSRE](https://github.com/canyang25/AutoSRE) — tool-calling agent from a production alert to a fix
 
 <p align="center">
   <a href="https://canyang25.github.io/"><img src="https://img.shields.io/badge/Site-171717?style=flat&logo=githubpages&logoColor=white&logoWidth=16" alt="Site"></a>
@@ -15,7 +21,7 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
   <a href="mailto:canyang.zhao2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=16" alt="Email"></a>
 </p>
 
-<img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="162 contributions in the last year" />
+<img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="168 contributions in the last year" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
@@ -23,21 +29,10 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
   <img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
 </picture>
 
-**About**
-I'm a master's student at UW–Madison focused on computer science and machine learning. I finished my B.S. in Data Science (Computational) in May 2026, and my M.S. is expected Dec 2027. My work spans software engineering, production ML systems, data pipelines, and tool-calling LLM agents.
+**About Me**
+Most recently I built a research analysis platform and an ML ranking service as a software development intern at Bio-Techne. Before that, I fine-tuned tool-calling LLMs at AI Rudder and built Snowflake data pipelines at Turning Green.
 
-Contact: [canyang.zhao2@gmail.com](mailto:canyang.zhao2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/preston-zhao) · [GitHub](https://github.com/canyang25)
-
-**Selected experience**
-- **Bio-Techne** — Graduate Intern, Software Development (May–Aug 2026, Minneapolis). Azure TypeScript app + Python API replacing commercial analysis software for 50+ scientists (~$10K/month saved, turnaround down by a third). Celery + PostgreSQL + Docker job service (50+ jobs/day, 99% completion, median queue latency 12 → 4 minutes). XGBoost ranker in Databricks (top-1 50% → 70%), Dockerized inference on Azure.
-- **AI Rudder** — LLM Engineer Intern (May–Aug 2025, Shanghai). Llama 3.1 8B LoRA SFT (tool-call correctness 61% → 80%); 150K+ validated conversations; LLM judge with 79% agreement with humans.
-- **Turning Green** — Data Analyst Intern (Dec 2024–Mar 2025, Sausalito · hybrid). Airbyte-to-Snowflake ELT (prep 4 hours → 30 minutes); unmatched locations 12% → 2%; XGBoost hub ranking (1.45× San Mateo coverage).
-
-**Featured projects**
-- [Mini-MapReduce](https://github.com/canyang25/mapreduce-project) — Python · gRPC · Docker · HDFS · PyArrow
-- [BadgerForge](https://github.com/canyang25/BadgerForge) — Python · LangGraph · LangChain · Pydantic · Docker
-- [NASA APOD Service](https://github.com/canyang25/NASA-apod-service) — JavaScript · Node · Express
-- [AutoSRE](https://github.com/canyang25/AutoSRE) — Python · FastAPI · SQLite · LLM tool use
+Contact: [canyang.zhao2@gmail.com](mailto:canyang.zhao2@gmail.com)
 
 **Stack**
 [![Languages](https://img.shields.io/badge/Languages-0F766E?style=flat-square)](https://github.com/canyang25?tab=repositories) Python · TypeScript/JavaScript · SQL
