@@ -1,6 +1,6 @@
 # Preston (Canyang) Zhao
 
-Portfolio: [canyang25.github.io](https://canyang25.github.io/) · [Resume](https://canyang25.github.io/resume.pdf)
+Portfolio: [canyang25.github.io](https://prestonzhao.me/) · [Resume](https://canyang25.github.io/resume.pdf)
 
 **Data science master's student @ UW–Madison** · B.S. May 2026, M.S. expected Dec 2027 · Software engineering candidate · Open to relocate
 
