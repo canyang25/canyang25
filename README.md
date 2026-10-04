@@ -17,10 +17,14 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
 
 <img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="162 contributions in the last year" />
 
-<img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+  <img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
+</picture>
 
 **About**
-I'm a master's student at UW–Madison focused on computer science and machine learning, finishing my B.S. in Data Science (Computational) in May 2026 with an M.S. expected Dec 2027. My work spans software engineering, production ML systems, data pipelines, and tool-calling LLM agents.
+I'm a master's student at UW–Madison focused on computer science and machine learning. I finished my B.S. in Data Science (Computational) in May 2026, and my M.S. is expected Dec 2027. My work spans software engineering, production ML systems, data pipelines, and tool-calling LLM agents.
 
 Contact: [canyang.zhao2@gmail.com](mailto:canyang.zhao2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/preston-zhao) · [GitHub](https://github.com/canyang25)
 

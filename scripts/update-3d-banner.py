@@ -203,8 +203,13 @@ def build_svg(calendar: dict) -> str:
             col = diagonal - row
             if col < 0 or col >= cols:
                 continue
-            days = weeks[col].get("contributionDays", [])
-            day = days[row] if row < len(days) else None
+            # Weeks at the edge of the year can omit leading days. Index by
+            # weekday (Sunday = 0) so those cells stay on the correct row.
+            days = {
+                day["weekday"]: day
+                for day in weeks[col].get("contributionDays", [])
+            }
+            day = days.get(row)
             count = day.get("contributionCount", 0) if day else 0
             level = day.get("contributionLevel", "NONE") if day else "NONE"
             height = bar_height(count, level, max_count)
