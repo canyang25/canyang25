@@ -1,0 +1,54 @@
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 08:20 America/Chicago (13:20 UTC; may shift with DST)
+    - cron: "20 13 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-writers
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: canyang25
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Apply teal student palette
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          styles = {
+            'output/github-contribution-grid-snake.svg': ':root{--cb:#0f172a0a;--cs:#0d9488;--ce:#f0fdfa;--c0:#f0fdfa;--c1:#99f6e4;--c2:#5eead4;--c3:#14b8a6;--c4:#0f766e}',
+            'output/github-contribution-grid-snake-dark.svg': ':root{--cb:#0f172a0a;--cs:#5eead4;--ce:#0f172a;--c0:#0f172a;--c1:#134e4a;--c2:#0f766e;--c3:#14b8a6;--c4:#5eead4}',
+          }
+          for file, root in styles.items():
+            p = Path(file)
+            s = p.read_text()
+            s = re.sub(r':root\{[^}]*\}', root, s, count=1)
+            p.write_text(s)
+          PY
+
+      - name: Commit and push snake files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/*.svg"
+          message: "chore: update contribution snake"
+          default_author: github_actions
