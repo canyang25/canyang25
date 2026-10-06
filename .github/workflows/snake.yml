@@ -52,3 +52,8 @@ jobs:
           add: "output/*.svg"
           message: "chore: update contribution snake"
           default_author: github_actions
+          # Checkout stays on the scheduled event SHA. Rebase onto the branch
+          # tip before committing so a push from the other profile workflow is
+          # not rejected. Autostash keeps the generated SVGs, which are still
+          # uncommitted when this action pulls.
+          pull: "--rebase --autostash"
