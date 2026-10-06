@@ -17,7 +17,7 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
   <a href="mailto:canyang.zhao2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=16" alt="Email"></a>
 </p>
 
-<img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="212 contributions in the last year" />
+<img align="left" width="56%" src="./assets/contrib-3d-banner.png" alt="215 contributions in the last year" />
 <img align="left" width="56%" alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg" />
 
 **Stack**<br>
