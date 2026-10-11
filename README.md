@@ -11,7 +11,7 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
 - [AutoSRE](https://github.com/canyang25/AutoSRE) — tool-calling agent from a production alert to a fix
 
 <p align="center">
-  <a href="https://canyang25.github.io/"><img src="https://img.shields.io/badge/Site-171717?style=flat&logo=githubpages&logoColor=white&logoWidth=16" alt="Site"></a>
+  <a href="https://prestonzhao.me/"><img src="https://img.shields.io/badge/Site-171717?style=flat&logo=githubpages&logoColor=white&logoWidth=16" alt="Site"></a>
   <a href="https://canyang25.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=flat&logo=adobeacrobatreader&logoColor=white&logoWidth=16" alt="Resume"></a>
   <a href="https://www.linkedin.com/in/preston-zhao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=16" alt="LinkedIn"></a>
   <a href="mailto:canyang.zhao2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=16" alt="Email"></a>
