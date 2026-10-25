@@ -10,6 +10,9 @@ Seeking Summer 2027 internships in software, data, or AI/ML.
 - [NASA APOD Service](https://github.com/canyang25/NASA-apod-service) — Express service for NASA's Astronomy Picture of the Day
 - [AutoSRE](https://github.com/canyang25/AutoSRE) — tool-calling agent from a production alert to a fix
 
+**Open Source**
+- [LanceDB](https://github.com/lancedb/lancedb) — contributor to the Node and Python SDKs ([#4432](https://github.com/lancedb/lancedb/pull/4432), [#4433](https://github.com/lancedb/lancedb/pull/4433))
+
 <p align="center">
   <a href="https://prestonzhao.me/"><img src="https://img.shields.io/badge/Site-171717?style=flat&logo=githubpages&logoColor=white&logoWidth=16" alt="Site"></a>
   <a href="https://canyang25.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=flat&logo=adobeacrobatreader&logoColor=white&logoWidth=16" alt="Resume"></a>
